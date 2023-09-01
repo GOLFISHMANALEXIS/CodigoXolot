@@ -88,6 +88,7 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 
 
 ## Integrantes del equipo
-Alexis Villegas Alvarado 
-Ali Michell Lopez Anselmo
+- **Alexis Villegas Alvarado**
+- **Ali Michell Lopez Anselmo**
+
 
