@@ -8,7 +8,7 @@ Es un animatronico inspirado en 3 cosas
 ## Índice
 
 - [Piezas](#Piezas)
-- [Uso](#uso)
+- [Uso y control](#uso)
 - [Historia](#Historia)
 - [Integrantes del equipo](#Integrantes)
 
@@ -89,6 +89,6 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 
 ## Integrantes del equipo
 - **Alexis Villegas Alvarado**
-- **Ali Michell Lopez Anselmo**
+
 
 
