@@ -74,13 +74,21 @@ La función más importante que se creía que cumplían los Xoloitzcuintles era 
 
 Los Xoloitzcuintles no solo eran valorados en el mundo espiritual, sino también en vida, ya que estaban asociados con Xolotl, el dios de la muerte. La relación con este dios era importante para asegurar una muerte sin sufrimiento.
 
-## El Significado de su Color
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 70%;">
+        ## El Significado de su Color
 
-Según la leyenda, el color del Xolo era significativo:
+        Según la leyenda, el color del Xolo era significativo:
 
-- Xolos negros habían completado su deber espiritual, habiendo guiado suficientes almas, y ya no podían realizar esta tarea.
-- Xolos blancos o muy claros eran considerados jóvenes e inexpertos, por lo que no se les permitía llevar a cabo la travesía.
-- Los Xolos grises jaspeados, el color más común en ellos, eran los elegidos para la importante tarea de guiar las almas.
+        - Xolos negros habían completado su deber espiritual, habiendo guiado suficientes almas, y ya no podían realizar esta tarea.
+        - Xolos blancos o muy claros eran considerados jóvenes e inexpertos, por lo que no se les permitía llevar a cabo la travesía.
+        - Los Xolos grises jaspeados, el color más común en ellos, eran los elegidos para la importante tarea de guiar las almas.
+    </div>
+    <div style="width: 30%;">
+        <img src="URL_DE_LA_IMAGEN" alt="Creada por IA">
+    </div>
+</div>
+
 
 ## Legado y Respeto
 
