@@ -84,7 +84,7 @@ Según la leyenda, el color del Xolo era significativo:
 - Xolos blancos o muy claros eran considerados jóvenes e inexpertos, por lo que no se les permitía llevar a cabo la travesía.
 - Los Xolos grises jaspeados, el color más común en ellos, eran los elegidos para la importante tarea de guiar las almas.
 <figure>
-  <img src="URL_DE_LA_IMAGEN" alt="Xoloitzcuintle" style="float: right; margin-left: 20px;" />
+  <img src="DALL·E 2023-09-01 17.46.53 - a more dominant face of an aztec dog.png" alt="Xoloitzcuintle" style="float: right; margin-left: 20px;" />
 </figure>
 
 
