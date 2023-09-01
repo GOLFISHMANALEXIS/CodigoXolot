@@ -14,17 +14,19 @@ Es un animatronico inspirado en 3 cosas
 
 ## Piezas
 
-Para este animatronico ocupe dos targetas:
--Arduino mega 2560 Rev3
--Arduino uno Rev3
-para la parte de motores:
--4 servomotores 
--1 motor a paso con el driver: ULN2003A
--1 motor de corriente directa tipo Faulhaber*
--jumpers macho/macho macho/hembra: aprox 50
--1 sensor ultrasonico SRF04
--1 pulsador 
--un Joystick
+- Para las tarjetas:
+  - Arduino Mega 2560 Rev3
+  - Arduino Uno Rev3
+
+- Para la parte de los motores:
+  - 4 servomotores
+  - 1 motor a pasos con el driver ULN2003A
+  - 1 motor de corriente directa tipo Faulhaber
+  - Jumpers macho/macho y macho/hembra (aproximadamente 50)
+  - 1 sensor ultrasónico SRF04
+  - 1 pulsador
+  - Un joystick
+
 
 ## Uso
 
