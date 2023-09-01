@@ -2,48 +2,90 @@
 Es un animatronico inspirado en 3 cosas 
 * Un Xoloitzcuintles
 * En un alebrije
-* De los pueblos prehispanicos y el mictlan
+* En los pueblos prehispanicos y el mictlan
 
 
 ## Índice
 
-- [Descripcion](#Piezas)
+- [Piezas](#Piezas)
 - [Uso](#uso)
 - [Historia](#Historia)
-- [Licencia](#licencia)
+- [Integrantes del equipo](#Integrantes)
 
 ## Piezas
 
-Proporciona instrucciones sobre cómo instalar y configurar tu proyecto. Puedes incluir ejemplos de comandos o enlaces a documentación adicional.
+Para este animatronico ocupe dos targetas:
+-Arduino mega 2560 Rev3
+-Arduino uno Rev3
+para la parte de motores:
+-4 servomotores 
+-1 motor a paso con el driver: ULN2003A
+-1 motor de corriente directa tipo Faulhaber*
+-jumpers macho/macho macho/hembra: aprox 50
+-1 sensor ultrasonico SRF04
+-1 pulsador 
+-un Joystick
 
 ## Uso
 
-Explica cómo utilizar tu proyecto, incluyendo ejemplos de código o capturas de pantalla si es necesario.
+## Uso del Proyecto
+
+La aplicación de este proyecto consiste en una serie de acciones automatizadas que se activan cuando el sensor ultrasónico detecta un objeto o usuario cercano. A continuación, se describen las principales funcionalidades:
+
+### Detección de Objetos
+
+- El sensor ultrasónico se utiliza para detectar la presencia de objetos o usuarios en las cercanías del dispositivo.
+
+### Movimiento Simulado de Caminar
+
+- Cuando se activa el sensor ultrasónico, los 4 servos se activan simultáneamente en sentidos opuestos para simular el movimiento de caminar. Esto crea la ilusión de que el dispositivo se mueve hacia adelante o hacia atrás.
+
+### Control de la Dirección con el Joystick
+
+- Además del movimiento simulado de caminar, el proyecto utiliza un motor a pasos y un joystick para controlar la dirección. El usuario puede girar el joystick para cambiar la dirección del movimiento y mover el dispositivo hacia donde desee.
+
+### Restablecimiento de Posición
+
+- Al finalizar las acciones mencionadas, el pulsador se utiliza para devolver los 4 motores a su posición inicial, es decir, a 0°. Esto asegura que el dispositivo regrese a su estado de reposo después de completar las acciones.
+
+Este proyecto combina la detección de objetos, el movimiento simulado de caminar y el control direccional para crear una experiencia interactiva y versátil.
+
 
 ## Historia
 
-# **El Xoloitzcuintli: Guardianes Espirituales de Mictlán**
+# Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica
 
-El Xoloitzcuintli, una raza de perros única, ha sido venerada desde tiempos prehispánicos en la cultura mesoamericana. En esos tiempos, se creía firmemente que estos hermosos animales eran guardianes de los espíritus, encargados de guiar a las almas de los fallecidos por el largo y difícil camino hacia Mictlán, la ciudad de los muertos.
+Este texto explora la fascinante historia de los Xoloitzcuintles, una raza de perros venerada desde tiempos prehispánicos en la mitología y la cultura mexicana.
 
-## **Misión en Mictlán**
+## Historia y Creencias
 
-La función más importante atribuida a los Xoloitzcuintli era la de ayudar a las almas a cruzar un profundo y caudaloso río que atraviesa la tierra de los muertos. Sin embargo, esta ayuda no era garantizada para todos. Si una persona, en vida, había tratado mal a los animales, especialmente a los perros, el Xolo se negaría a prestar su ayuda, condenando al individuo a perecer en su intento de cruzar.
+En la creencia prehispánica, se consideraba que estos hermosos animales eran guardianes de los espíritus, encargados de guiar a las almas de los fallecidos en su travesía por Mictlán, la ciudad de los muertos.
 
-Por otro lado, si la persona había mostrado bondad hacia los perros durante su vida, el Xoloitzcuintli aceptaría gustosamente la tarea. Tomaría el alma, la colocaría sobre su lomo y la llevaría a salvo al otro lado del río, asegurando que encontrara su camino en el más allá.
+## La Misión de los Xolos
 
-## **La Importancia en la Vida Terrenal**
+La función más importante que se creía que cumplían los Xoloitzcuintles era ayudar a las almas a cruzar un profundo y caudaloso río que atravesaba la tierra de los muertos. Sin embargo, su ayuda no era garantizada.
 
-Los Xoloitzcuintli no solo eran valiosos en el ámbito espiritual sino también en la vida cotidiana. Estaban estrechamente relacionados con Xolotl, el dios de la muerte, y se creía que su trato hacia estos perros influiría en su propia experiencia después de la muerte. Tratar a los Xolos con bondad y respeto garantizaba una muerte más agradable y sin sufrimiento.
+- Si una persona había tratado mal a los animales, especialmente a los perros, el Xolo se negaría a ayudar, condenando al alma al sufrimiento eterno.
+- Si, en cambio, alguien había sido amable y respetuoso con los perros en vida, el Xolo aceptaría la tarea con gusto, llevando el alma a salvo al otro lado.
 
-## **La Señal del Xolo**
+## Asociación con Xolotl
 
-La leyenda del Xolo cuenta que su apariencia física también tenía significado. Si un Xoloitzcuintli era de color negro, se creía que ya había cumplido su deber en el río de los muertos y no podría ayudar a más almas a cruzar, pues su color indicaba que ya se había sumergido en el río en innumerables ocasiones. Por otro lado, si el Xolo era blanco o de color muy claro, se consideraba que aún no había alcanzado la madurez necesaria para realizar esta importante tarea.
+Los Xoloitzcuintles no solo eran valorados en el mundo espiritual, sino también en vida, ya que estaban asociados con Xolotl, el dios de la muerte. La relación con este dios era importante para asegurar una muerte sin sufrimiento.
 
-En resumen, el Xoloitzcuintli no solo era un símbolo de la cultura prehispánica sino también un compañero fiel en la vida y un guía espiritual en la muerte. Su importancia perdura en la actualidad como una parte fundamental del rico patrimonio cultural de México.
+## El Significado de su Color
+
+Según la leyenda, el color del Xolo era significativo:
+
+- Xolos negros habían completado su deber espiritual, habiendo guiado suficientes almas, y ya no podían realizar esta tarea.
+- Xolos blancos o muy claros eran considerados jóvenes e inexpertos, por lo que no se les permitía llevar a cabo la travesía.
+- Los Xolos grises jaspeados, el color más común en ellos, eran los elegidos para la importante tarea de guiar las almas.
+
+## Legado y Respeto
+
+Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través de la cultura y la tradición, el amor y el respeto por estos hermosos animales que se han convertido en una parte fundamental de nuestras vidas, acompañándonos tanto en vida como en muerte.
 
 
-## Licencia
-
-Este proyecto está bajo la [licencia XYZ](url-de-tu-licencia). Asegúrate de elegir una licencia adecuada para tu proyecto.
+## Integrantes del equipo
+Alexis Villegas Alvarado 
+Ali Michell Lopez Anselmo
 
