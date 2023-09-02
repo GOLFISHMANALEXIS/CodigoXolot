@@ -10,7 +10,7 @@ Es un animatronico inspirado en 3 cosas
 - [Piezas](#Piezas)
 - [Uso y control](#uso)
 - [Historia](#Historia)
-- [Integrantes del equipo](#Integrantes)
+- [Integrantes del equipo](#Integrantesdelequipo)
 
 ## Piezas
 
