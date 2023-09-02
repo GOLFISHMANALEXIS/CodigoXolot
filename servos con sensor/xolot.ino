@@ -1,25 +1,31 @@
-#include <Servo.h>
+ #include <Servo.h>
 
 Servo servo1;
 Servo servo2;
+Servo servo3;
+Servo servo4;
 
-const int trigPin = 9; // Pin de salida del sensor ultrasónico
-const int echoPin = 10; // Pin de entrada del sensor ultrasónico
-const int buttonPin = 7; // Pin para el botón
+const int trigPin = 9;     // Pin de salida del sensor ultrasónico
+const int echoPin = 10;    // Pin de entrada del sensor ultrasónico
+const int buttonPin = 8;   // Pin para el botón
 
 boolean servosInverted = false; // Indica si los servos están invertidos
 
 void setup() {
   Serial.begin(9600);
-  servo1.attach(3); // Pin de control del servo 1
-  servo2.attach(5); // Pin de control del servo 2
+  servo1.attach(2); // Pin de control del servo 1
+  servo2.attach(3); // Pin de control del servo 2
+  servo3.attach(4); // Pin de control del servo 3
+  servo4.attach(5); // Pin de control del servo 4
 
   pinMode(trigPin, OUTPUT);
-  pinMode(echoPin, INPUT);
+  pinMode(echoPin, INPUT); 
   pinMode(buttonPin, INPUT_PULLUP); // Configurar el pin del botón con resistencia pull-up
   
-  servo1.write(0); // Inicialmente, ambos servos en 0°
+  servo1.write(0); // Inicialmente, todos los servos en 0°
   servo2.write(0);
+  servo3.write(0);
+  servo4.write(0);
 }
 
 void loop() {
@@ -35,9 +41,11 @@ void loop() {
 
   // Verificar si el botón ha sido presionado
   if (digitalRead(buttonPin) == LOW) {
-    // Mover ambos servos a la posición de 0 grados
+    // Mover todos los servos a la posición de 0 grados
     servo1.write(0);
     servo2.write(0);
+    servo3.write(0);
+    servo4.write(0);
     delay(500); // Esperar un poco después de mover los servos
   } else {
     // Cambiar la posición de los servos intercaladamente con inversiones en el giro
@@ -45,9 +53,13 @@ void loop() {
       if (servosInverted) {
         servo1.write(0);
         servo2.write(180);
+        servo3.write(0);
+        servo4.write(180);
       } else {
         servo1.write(180);
         servo2.write(0);
+        servo3.write(180);
+        servo4.write(0);
       }
       servosInverted = !servosInverted; // Cambiar el estado de inversión
       
