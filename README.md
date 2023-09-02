@@ -87,6 +87,9 @@ Según la leyenda, el color del Xolo era significativo:
   <img src="DALL·E 2023-09-01 17.46.53 - a more dominant face of an aztec dog.png" alt="Xoloitzcuintle" width="130" />
 </p>
 
+<p align="center">Dalle IA</p>
+
+
 
 ## Legado y Respeto
 
