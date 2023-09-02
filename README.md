@@ -10,7 +10,7 @@ Es un animatronico inspirado en 3 cosas
 - [Piezas](#Piezas)
 - [Uso y control](#uso)
 - [Historia](#Historia)
-- [Integrantes del equipo](#Integrantesdelequipo)
+- [Integrantes del equipo](#Integrantes)
 
 ## Piezas
 
@@ -96,7 +96,7 @@ Según la leyenda, el color del Xolo era significativo:
 Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través de la cultura y la tradición, el amor y el respeto por estos hermosos animales que se han convertido en una parte fundamental de nuestras vidas, acompañándonos tanto en vida como en muerte.
 
 
-## Integrantes del equipo
+## Integrantes 
 - **Alexis Villegas Alvarado**
 
 
