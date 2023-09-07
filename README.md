@@ -33,32 +33,39 @@ Es un animatronico inspirado en 3 cosas
  
 ## Uso
 
-## Uso del Proyecto
+# Uso del Proyecto
 
-La aplicación de este proyecto consiste en una serie de acciones automatizadas que se activan cuando el sensor ultrasónico detecta un objeto o usuario cercano. A continuación, se describen las principales funcionalidades:
+Este proyecto ofrece una serie de funcionalidades automatizadas que se activan cuando el sensor ultrasónico detecta un objeto o un usuario cercano. A continuación, se describen las principales características:
 
-### Detección de Objetos
+## Detección de Objetos
 
-- El sensor ultrasónico se utiliza para detectar la presencia de objetos o usuarios en las cercanías del dispositivo.
+- Utiliza el sensor ultrasónico para detectar objetos o usuarios en las proximidades del dispositivo.
 
-### Movimiento Simulado de Caminar
+## Movimiento Simulado de Caminar
 
-- Cuando se activa el sensor ultrasónico, los 4 servos se activan simultáneamente en sentidos opuestos para simular el movimiento de caminar. Esto crea la ilusión de que el dispositivo se mueve hacia adelante o hacia atrás.
+- Cuando el sensor ultrasónico se activa, los 4 servos entran en acción simultáneamente, moviéndose en direcciones opuestas para simular un paso adelante o atrás. Esto crea la ilusión de que el dispositivo está caminando.
 
-### Control de la Dirección con el Joystick
+## Movimiento de Alas
 
-- Además del movimiento simulado de caminar, el proyecto utiliza un motor a pasos y un joystick para controlar la dirección. El usuario puede girar el joystick para cambiar la dirección del movimiento y mover el dispositivo hacia donde desee.
-
-### Restablecimiento de Posición
-
-- Al finalizar las acciones mencionadas, el pulsador se utiliza para devolver los 4 motores a su posición inicial, es decir, a 0°. Esto asegura que el dispositivo regrese a su estado de reposo después de completar las acciones.
-
-Este proyecto combina la detección de objetos, el movimiento simulado de caminar y el control direccional para crear una experiencia interactiva y versátil.
-
-<p align="left">
+- Además del movimiento simulado de caminar, el proyecto incorpora un mecanismo de alas que utiliza un sistema de engranajes y un motor DC. Este mecanismo de alas se sincroniza con el movimiento de caminar para simular un movimiento realista, permitiendo que el dispositivo imite el vuelo de un ave u otro patrón de movimiento de alas deseado.
+  <p align="left">
   <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="400" />
   <p align="left">Esquematico</p>
 </p>
+
+## Control de la Dirección con el Joystick
+
+- Además de los movimientos mencionados anteriormente, el proyecto emplea un motor a pasos y un joystick para controlar la dirección. Los usuarios pueden girar el joystick para cambiar la dirección del movimiento y dirigir el dispositivo hacia donde deseen.
+
+## Restablecimiento de Posición
+
+- Al finalizar las acciones mencionadas, el pulsador se utiliza para volver a la posición inicial, es decir, 0°, tanto para los 4 motores como para el mecanismo de alas. Esto asegura que el dispositivo regrese a su estado de reposo después de completar las acciones.
+
+---
+
+Este proyecto combina la detección de objetos, el movimiento simulado de caminar, el movimiento de alas y el control direccional para crear una experiencia interactiva y versátil.
+
+
 ## Historia
 
 # Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica
