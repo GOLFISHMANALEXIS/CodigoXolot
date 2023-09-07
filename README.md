@@ -26,6 +26,10 @@ Es un animatronico inspirado en 3 cosas
   - 1 sensor ultrasónico SRF04
   - 1 pulsador
   - Un joystick
+  - tansistor 2N 2222 A
+  - Potenciometro de 50k
+  - Resistencia 1kΩ
+  - Fuente de alimentacion 5v-3.3v
  
     <p align="left">
   <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="400" />
