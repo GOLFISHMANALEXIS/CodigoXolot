@@ -26,6 +26,12 @@ Es un animatronico inspirado en 3 cosas
   - 1 sensor ultrasónico SRF04
   - 1 pulsador
   - Un joystick
+ 
+    <p align="center">
+  <img src="DALL·E 2023-09-01 17.46.53 - a more dominant face of an aztec dog.png" alt="Xoloitzcuintle" width="130" />
+</p>
+
+<p align="center">Esquematico</p>
 
 
 ## Uso
