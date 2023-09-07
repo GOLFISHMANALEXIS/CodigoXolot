@@ -28,7 +28,7 @@ Es un animatronico inspirado en 3 cosas
   - Un joystick
  
     <p align="center">
-  <img src="DALL·E 2023-09-01 17.46.53 - a more dominant face of an aztec dog.png" alt="Xoloitzcuintle" width="130" />
+  <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="130" />
 </p>
 
 <p align="center">Esquematico</p>
