@@ -27,11 +27,12 @@ Es un animatronico inspirado en 3 cosas
   - 1 pulsador
   - Un joystick
  
-    <p align="center">
-  <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="130" />
+    <p align="left">
+  <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="400" />
+  <p align="left">Esquematico</p>
 </p>
 
-<p align="center">Esquematico</p>
+
 
 
 ## Uso
