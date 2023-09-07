@@ -31,14 +31,6 @@ Es un animatronico inspirado en 3 cosas
   - Resistencia 1kΩ
   - Fuente de alimentacion 5v-3.3v
  
-    <p align="left">
-  <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="400" />
-  <p align="left">Esquematico</p>
-</p>
-
-
-
-
 ## Uso
 
 ## Uso del Proyecto
@@ -63,7 +55,10 @@ La aplicación de este proyecto consiste en una serie de acciones automatizadas 
 
 Este proyecto combina la detección de objetos, el movimiento simulado de caminar y el control direccional para crear una experiencia interactiva y versátil.
 
-
+<p align="left">
+  <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="400" />
+  <p align="left">Esquematico</p>
+</p>
 ## Historia
 
 # Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica
