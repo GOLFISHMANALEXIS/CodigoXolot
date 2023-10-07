@@ -27,7 +27,7 @@ Es un animatrónico inspirado en 3 cosas:
   - [Mujeres](#Mujeres)
   - [Hombres](#Hombres)
 - [Historia](#Historia)
-  - [Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica](#Los-Xoloitzcuintles:-Guardianes-de-Almas-en-la-Mitología-Prehispánica)
+  - [Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica](#Los-Xoloitzcuintles)
   - [Historia y Creencias](#Historia-y-Creencias)
   - [La Misión de los Xolos](#La-Misión-de-los-Xolos)
   - [Asociación con Xolotl](#Asociación-con-Xolotl)
