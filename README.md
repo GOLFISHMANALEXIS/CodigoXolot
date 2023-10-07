@@ -156,7 +156,7 @@ Es un animatrónico inspirado en 3 cosas:
   <img src="tipicotraje.jpg" width="250" />
 </p>
 <p align="center">
-  <i>Esquemático</i>
+  <i>Representacion</i>
 </p>
 
 ---
