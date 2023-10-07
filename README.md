@@ -152,8 +152,11 @@ Es un animatrónico inspirado en 3 cosas:
 - Calzón de manta (pantalón y camisa)
 
 
- <p align="left">
-  <img src="tipicotraje.jpg" width="200" />
+ <p align="center">
+  <img src="tipicotraje.jpg" width="250" />
+</p>
+<p align="center">
+  <i>Esquemático</i>
 </p>
 
 ---
