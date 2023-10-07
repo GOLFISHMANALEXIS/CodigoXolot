@@ -27,7 +27,7 @@ Es un animatrónico inspirado en 3 cosas:
   - [Mujeres](#Mujeres)
   - [Hombres](#Hombres)
 - [Historia](#Historia)
-  - [Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica](#LosXoloitzcuintles)
+  - [Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica](#Xoloitzcuintles)
   - [Historia y Creencias](#Historia-y-Creencias)
   - [La Misión de los Xolos](#La-Misión-de-los-Xolos)
   - [Asociación con Xolotl](#Asociación-con-Xolotl)
@@ -163,7 +163,7 @@ Es un animatrónico inspirado en 3 cosas:
 
 ## Historia
 
-### Los Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica
+### Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica
 
 Este texto explora la fascinante historia de los Xoloitzcuintles, una raza de perros venerada desde tiempos prehispánicos en la mitología y la cultura mexicana.
 
