@@ -85,7 +85,9 @@ Es un animatrónico inspirado en 3 cosas:
 - Se puede utilizar para cualquier tipo de motor de corriente directa
  <p align="center">
   <img src="movimientodemotoresizqder.png" width="400" />
-  <p align="left">Esquematico</p>
+</p>
+<p align="center">
+  <i>Esquemático</i>
 </p>
 
 ---
@@ -104,8 +106,13 @@ Es un animatrónico inspirado en 3 cosas:
 
 - Además del movimiento simulado de caminar, el proyecto incorpora un mecanismo de alas que utiliza un sistema de engranajes y un motor DC. Este mecanismo de alas se sincroniza con el movimiento de caminar para simular un movimiento realista, permitiendo que el dispositivo imite el vuelo de un ave u otro patrón de movimiento de alas deseado.
 
-  ![Esquemático](golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png)
-  *Esquemático*
+ <p align="center">
+  <img src="golfishman21-regegulador-de-voltaje-e-5v-cocotron-2023.png" width="400" />
+</p>
+<p align="center">
+  <i>Esquemático</i>
+</p>
+
 
 ### Control de la Dirección con el Joystick
 
@@ -213,6 +220,9 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 10. Engineering Today (Año). Alas mecanismo basado [Video]. YouTube. [https://www.youtube.com/watch?v=JXcxoOECj8k](https://www.youtube.com/watch?v=JXcxoOECj8k)
 
 ---
+ <p align="center">
+  <img src="logobuap.png" width="300" />
+</p>
 <p align="center">
-  <img src="logobuap.png" width="200" />
+  <i>Prepa BUAP CRS</i>
 </p>
