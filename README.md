@@ -83,6 +83,10 @@ Es un animatrónico inspirado en 3 cosas:
 - Pulsadores (2)
 - Cables
 - Se puede utilizar para cualquier tipo de motor de corriente directa
+ <p align="center">
+  <img src="movimientodemotoresizqder.png" width="400" />
+  <p align="left">Esquematico</p>
+</p>
 
 ---
 
@@ -140,6 +144,11 @@ Es un animatrónico inspirado en 3 cosas:
 
 - Calzón de manta (pantalón y camisa)
 
+
+ <p align="left">
+  <img src="tipicotraje.jpg" width="200" />
+</p>
+
 ---
 
 ## Historia
@@ -188,6 +197,8 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 
 - **Jose David Rivera Garcia**
 
+
+
 ## Referencias
 
 1. Arduino. (s.f.). Arduino - Home. [https://www.arduino.cc/](https://www.arduino.cc/)
@@ -200,3 +211,8 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 8. Unbox Factory (Año). Actuador Lineal PLOcowiAyscEazkB1Ve5aX_ptNiDTz4OAm [Video]. YouTube. [https://www.youtube.com/watch?v=PLOcowiAyscEazkB1Ve5aX_ptNiDTz4OAm](https://www.youtube.com/watch?v=PLOcowiAyscEazkB1Ve5aX_ptNiDTz4OAm)
 9. Gob.mx (s.f.). La leyenda del Xoloitzcuintle, el perro azteca. Gobierno de México. [https://www.gob.mx/siap/articulos/la-leyenda-del-xoloitzcuintle-el-perro-azteca?idiom=es#:~:text=Esta%20particular%20raza%20de%20perros,la%20ciudad%20de%20los%20muertos.](https://www.gob.mx/siap/articulos/la-leyenda-del-xoloitzcuintle-el-perro-azteca?idiom=es#:~:text=Esta%20particular%20raza%20de%20perros,la%20ciudad%20de%20los%20muertos.)
 10. Engineering Today (Año). Alas mecanismo basado [Video]. YouTube. [https://www.youtube.com/watch?v=JXcxoOECj8k](https://www.youtube.com/watch?v=JXcxoOECj8k)
+
+---
+<p align="center">
+  <img src="logobuap.png" width="200" />
+</p>
