@@ -163,7 +163,9 @@ Es un animatrónico inspirado en 3 cosas:
 
 ## Historia
 
-### Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica
+### Xoloitzcuintles
+
+Guardianes de Almas en la Mitología Prehispánica
 
 Este texto explora la fascinante historia de los Xoloitzcuintles, una raza de perros venerada desde tiempos prehispánicos en la mitología y la cultura mexicana.
 
