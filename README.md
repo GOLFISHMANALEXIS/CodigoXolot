@@ -252,6 +252,7 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 - **Alexis Villegas Alvarado**
 - **Ali Michel Lopez Anselmo**
 - **Gisell del Carmen Luna Gasca**
+- **Fátima Jocelyn Márquez Buendía**
 - **Angel Gabriel Basilio Franco**
 
 ## Asesor
