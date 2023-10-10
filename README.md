@@ -19,6 +19,13 @@ Es un animatrónico inspirado en 3 cosas:
   - [Movimiento de Alas](#Movimiento-de-Alas)
   - [Control de la Dirección con el Joystick](#Control-de-la-Dirección-con-el-Joystick)
   - [Restablecimiento de Posición](#Restablecimiento-de-Posición)
+- [Mesa Rotatoria](#Mesa-Rotatoria)
+  - [Materiales necesarios](#Materiales-necesarios)
+  - [Preparación de los círculos de madera](#Preparación-de-los-círculos-de-madera)
+  - [Preparación del eje o valero](#Preparación-del-eje-o-valero)
+  - [Instalación de la polea y la correa](#Instalación-de-la-polea-y-la-correa)
+  - [Añadir la manivela](#Añadir-la-manivela)
+  - [Pruebas y ajustes](#Pruebas-y-ajustes)
 - [Decoración y Efectos Especiales](#Decoración-y-Efectos-Especiales)
   - [Diseño de Alebrije Tradicional](#Diseño-de-Alebrije-Tradicional)
   - [Cambio de Luz UV Prehispánico](#Cambio-de-Luz-UV-Prehispánico)
@@ -123,6 +130,43 @@ Es un animatrónico inspirado en 3 cosas:
 - Al finalizar las acciones mencionadas, el pulsador se utiliza para volver a la posición inicial, es decir, 0°, tanto para los 4 motores como para el mecanismo de alas. Esto asegura que el dispositivo regrese a su estado de reposo después de completar las acciones.
 
 ---
+
+# Mesa Rotatoria
+
+## Materiales necesarios:
+- Dos círculos de madera comprimida con el diámetro deseado para la base y la parte superior de la mesa.
+- Eje o valero que permitirá la rotación de la parte superior de la mesa.
+- Polea y correa para transmitir el movimiento de la manivela al eje.
+- Manivela a la medida que permitirá girar la mesa.
+- Tornillos y herramientas para ensamblar las piezas.
+
+## Preparación de los círculos de madera:
+1. Corta dos círculos de madera comprimida del tamaño deseado para la base y la parte superior de la mesa.
+2. Asegúrate de que ambos círculos estén perfectamente nivelados y lisos para facilitar el movimiento de la mesa.
+
+## Preparación del eje o valero:
+- Fija el eje o valero en el centro de la base de la mesa, asegurándote de que esté correctamente alineado y asegurado para permitir la rotación.
+- Asegura el eje o valero con tornillos para que esté firmemente sujeto a la base.
+
+## Instalación de la polea y la correa:
+- Coloca una polea en el extremo del eje o valero que sobresale de la base.
+- Coloca la correa alrededor de la polea y la manivela que utilizarás para girar la mesa.
+
+## Añadir la manivela:
+- Fija la manivela en el extremo de la correa para permitir el giro de la mesa.
+- Asegura la manivela de manera que sea fácilmente accesible para el operador y permita un giro suave de la mesa.
+
+## Pruebas y ajustes:
+- Realiza pruebas para asegurarte de que la mesa gire suavemente y que la manivela funcione correctamente.
+- Realiza ajustes si es necesario para garantizar un movimiento fluido y seguro de la mesa rotatoria.
+
+ <p align="center">
+  <img src="planos.png" width="350" />
+</p>
+<p align="center">
+  <i>Planos</i>
+</p>
+
 
 ## Decoración y Efectos Especiales
 
