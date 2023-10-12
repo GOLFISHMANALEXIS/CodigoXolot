@@ -1,6 +1,8 @@
 # Xolotcocotron 2023
 
+
 Es un animatrónico inspirado en 3 cosas:
+-**NIVEL EDUCATIVO: PREPARATORIA CRS**
 - Un Xoloitzcuintles
 - En un alebrije
 - En los pueblos prehispánicos y el Mictlán
