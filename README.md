@@ -1,4 +1,3 @@
-<span style="color:red">Este texto es de color rojo.</span>
 
 # Xolotcocotron 2023
 Es un animatrónico inspirado en 3 cosas:
