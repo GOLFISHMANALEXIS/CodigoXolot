@@ -1,3 +1,6 @@
+<font color="blue">Texto de color azul</font>
+<span style="color:red">Texto de color rojo</span>
+<span style="color:blue">Texto de color azul</span>
 # Xolotcocotron 2023
 Es un animatrónico inspirado en 3 cosas:
 - **NIVEL EDUCATIVO: PREPARATORIA CRS**
