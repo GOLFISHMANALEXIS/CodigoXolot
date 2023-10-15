@@ -1,52 +1,122 @@
 
 # Xolotcocotron 2023
-Es un animatrónico inspirado en 3 cosas:
+
 - **NIVEL EDUCATIVO: PREPARATORIA CRS**
+
+Es un animatrónico inspirado en:
 - Un Xoloitzcuintles
 - En un alebrije
 - En los pueblos prehispánicos y el Mictlán
 
 ## Índice
 
-- [Piezas](#Piezas)
-  - [Tarjetas](#Tarjetas)
-  - [Motores](#Motores)
-  - [Cámara de humo](#Cámara-de-humo)
-  - [Actuador Lineal](#Actuador-Lineal)
-  - [Circuito Controlador de Motores](#Circuito-Controlador-de-Motores)
-- [Uso y control](#Uso-y-control)
-  - [Detección de Objetos](#Detección-de-Objetos)
-  - [Movimiento Simulado de Caminar](#Movimiento-Simulado-de-Caminar)
-  - [Movimiento de Alas](#Movimiento-de-Alas)
-  - [Control de la Dirección con el Joystick](#Control-de-la-Dirección-con-el-Joystick)
-  - [Restablecimiento de Posición](#Restablecimiento-de-Posición)
-- [Mesa Rotatoria](#Mesa-Rotatoria)
-  - [Materiales necesarios](#Materiales-necesarios)
-  - [Preparación de los círculos de madera](#Preparación-de-los-círculos-de-madera)
-  - [Preparación del eje o valero](#Preparación-del-eje-o-valero)
-  - [Instalación de la polea y la correa](#Instalación-de-la-polea-y-la-correa)
-  - [Añadir la manivela](#Añadir-la-manivela)
-  - [Pruebas y ajustes](#Pruebas-y-ajustes)
-- [Decoración y Efectos Especiales](#Decoración-y-Efectos-Especiales)
-  - [Diseño de Alebrije Tradicional](#Diseño-de-Alebrije-Tradicional)
-  - [Cambio de Luz UV Prehispánico](#Cambio-de-Luz-UV-Prehispánico)
-  - [Pintura Acrílica y Plumón de Tinta Invisible Casera](#Pintura-Acrílica-y-Plumón-de-Tinta-Invisible-Casera)
-- [Caracterización de los Integrantes](#Caracterización-de-los-Integrantes)
-  - [Mujeres](#Mujeres)
-  - [Hombres](#Hombres)
-- [Historia](#Historia)
-  - [Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica](#Xoloitzcuintles)
-  - [Historia y Creencias](#Historia-y-Creencias)
-  - [La Misión de los Xolos](#La-Misión-de-los-Xolos)
-  - [Asociación con Xolotl](#Asociación-con-Xolotl)
-  - [El Significado de su Color](#El-Significado-de-su-Color)
-  - [Legado y Respeto](#Legado-y-Respeto)
-- [Integrantes del equipo](#Integrantes)
-- [Asesor del equipo](#Asesor)
-- [Referencias](#Referencias)
+- [Historia](#historia)
+  - [Xoloitzcuintles: Guardianes de Almas en la Mitología Prehispánica](#xoloitzcuintles-guardianes-de-almas-en-la-mitología-prehispánica)
+  - [Historia y Creencias](#historia-y-creencias)
+  - [La Misión de los Xolos](#la-misión-de-los-xolos)
+  - [Asociación con Xolotl](#asociación-con-xolotl)
+  - [El Significado de su Color](#el-significado-de-su-color)
+  - [Legado y Respeto](#legado-y-respeto)
+
+- [Caracterización de los Integrantes](#caracterización-de-los-integrantes)
+  - [Mujeres](#mujeres)
+  - [Hombres](#hombres)
+
+- [Piezas](#piezas)
+  - [Tarjetas](#tarjetas)
+  - [Motores](#motores)
+  - [Cámara de humo](#cámara-de-humo)
+  - [Actuador Lineal](#actuador-lineal)
+  - [Circuito Controlador de Motores](#circuito-controlador-de-motores)
+
+- [Uso y control](#uso-y-control)
+  - [Detección de Objetos](#detección-de-objetos)
+  - [Movimiento Simulado de Caminar](#movimiento-simulado-de-caminar)
+  - [Movimiento de Alas](#movimiento-de-alas)
+  - [Control de la Dirección con el Joystick](#control-de-la-dirección-con-el-joystick)
+  - [Restablecimiento de Posición](#restablecimiento-de-posición)
+
+- [Mesa Rotatoria](#mesa-rotatoria)
+  - [Materiales necesarios](#materiales-necesarios)
+  - [Preparación de los círculos de madera](#preparación-de-los-círculos-de-madera)
+  - [Preparación del eje o valero](#preparación-del-eje-o-valero)
+  - [Instalación de la polea y la correa](#instalación-de-la-polea-y-la-correa)
+  - [Añadir la manivela](#añadir-la-manivela)
+  - [Pruebas y ajustes](#pruebas-y-ajustes)
+
+- [Decoración y Efectos Especiales](#decoración-y-efectos-especiales)
+  - [Diseño de Alebrije Tradicional](#diseño-de-alebrije-tradicional)
+  - [Cambio de Luz UV Prehispánico](#cambio-de-luz-uv-prehispánico)
+  - [Pintura Acrílica y Plumón de Tinta Invisible Casera](#pintura-acrílica-y-plumón-de-tinta-invisible-casera)
+
+- [Integrantes del equipo](#integrantes-del-equipo)
+- [Asesor del equipo](#asesor-del-equipo)
+- [Referencias](#referencias)
+
 
 ---
+## Historia
 
+### Xoloitzcuintles
+
+Guardianes de Almas en la Mitología Prehispánica
+
+Este texto explora la fascinante historia de los Xoloitzcuintles, una raza de perros venerada desde tiempos prehispánicos en la mitología y la cultura mexicana.
+
+### Historia y Creencias
+
+En la creencia prehispánica, se consideraba que estos hermosos animales eran guardianes de los espíritus, encargados de guiar a las almas de los fallecidos en su travesía por Mictlán, la ciudad de los muertos.
+
+### La Misión de los Xolos
+
+La función más importante que se creía que cumplían los Xoloitzcuintles era ayudar a las almas a cruzar un profundo y caudaloso río que atravesaba la tierra de los muertos. Sin embargo, su ayuda no era garantizada.
+
+- Si una persona había tratado mal a los animales, especialmente a los perros, el Xolo se negaría a ayudar, condenando al alma al sufrimiento eterno.
+- Si, en cambio, alguien había sido amable y respetuoso con los perros en vida, el Xolo aceptaría la tarea con gusto, llevando el alma a salvo al otro lado.
+
+### Asociación con Xolotl
+
+Los Xoloitzcuintles no solo eran valorados en el mundo espiritual, sino también en vida, ya que estaban asociados con Xolotl, el dios de la muerte. La relación con este dios era importante para asegurar una muerte sin sufrimiento.
+
+### El Significado de su Color
+
+Según la leyenda, el color del Xolo era significativo:
+
+- Xolos negros habían completado su deber espiritual, habiendo guiado suficientes almas, y ya no podían realizar esta tarea.
+- Xolos blancos o muy claros eran considerados jóvenes e inexpertos, por lo que no se les permitía llevar a cabo la travesía.
+- Los Xolos grises jaspeados, el color más común en ellos, eran los elegidos para la importante tarea de guiar las almas.
+
+<p align="center">
+  <img src="DALL·E 2023-09-01 17.46.53 - a more dominant face of an aztec dog.png" width="250" />
+</p>
+<p align="center">
+  <i>AI DALLE</i>
+</p>
+
+### Legado y Respeto
+
+Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través de la cultura y la tradición, el amor y el respeto por estos hermosos animales que se han convertido en una parte fundamental de nuestras vidas, acompañándonos tanto en vida como en muerte.
+
+## Caracterización de los Integrantes
+
+### Mujeres
+
+- Opción de usar falda náhuatl
+- Huipil (blusa)
+
+### Hombres
+
+- Calzón de manta (pantalón y camisa)
+
+
+ <p align="center">
+  <img src="tipicotraje.jpg" width="250" />
+</p>
+<p align="center">
+  <i>Representacion</i>
+</p>
+
+---
 ## Piezas
 
 ### Tarjetas
@@ -185,68 +255,9 @@ Es un animatrónico inspirado en 3 cosas:
 
 ---
 
-## Caracterización de los Integrantes
-
-### Mujeres
-
-- Opción de usar falda náhuatl
-- Huipil (blusa)
-
-### Hombres
-
-- Calzón de manta (pantalón y camisa)
 
 
- <p align="center">
-  <img src="tipicotraje.jpg" width="250" />
-</p>
-<p align="center">
-  <i>Representacion</i>
-</p>
 
----
-
-## Historia
-
-### Xoloitzcuintles
-
-Guardianes de Almas en la Mitología Prehispánica
-
-Este texto explora la fascinante historia de los Xoloitzcuintles, una raza de perros venerada desde tiempos prehispánicos en la mitología y la cultura mexicana.
-
-### Historia y Creencias
-
-En la creencia prehispánica, se consideraba que estos hermosos animales eran guardianes de los espíritus, encargados de guiar a las almas de los fallecidos en su travesía por Mictlán, la ciudad de los muertos.
-
-### La Misión de los Xolos
-
-La función más importante que se creía que cumplían los Xoloitzcuintles era ayudar a las almas a cruzar un profundo y caudaloso río que atravesaba la tierra de los muertos. Sin embargo, su ayuda no era garantizada.
-
-- Si una persona había tratado mal a los animales, especialmente a los perros, el Xolo se negaría a ayudar, condenando al alma al sufrimiento eterno.
-- Si, en cambio, alguien había sido amable y respetuoso con los perros en vida, el Xolo aceptaría la tarea con gusto, llevando el alma a salvo al otro lado.
-
-### Asociación con Xolotl
-
-Los Xoloitzcuintles no solo eran valorados en el mundo espiritual, sino también en vida, ya que estaban asociados con Xolotl, el dios de la muerte. La relación con este dios era importante para asegurar una muerte sin sufrimiento.
-
-### El Significado de su Color
-
-Según la leyenda, el color del Xolo era significativo:
-
-- Xolos negros habían completado su deber espiritual, habiendo guiado suficientes almas, y ya no podían realizar esta tarea.
-- Xolos blancos o muy claros eran considerados jóvenes e inexpertos, por lo que no se les permitía llevar a cabo la travesía.
-- Los Xolos grises jaspeados, el color más común en ellos, eran los elegidos para la importante tarea de guiar las almas.
-
-<p align="center">
-  <img src="DALL·E 2023-09-01 17.46.53 - a more dominant face of an aztec dog.png" width="250" />
-</p>
-<p align="center">
-  <i>AI DALLE</i>
-</p>
-
-### Legado y Respeto
-
-Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través de la cultura y la tradición, el amor y el respeto por estos hermosos animales que se han convertido en una parte fundamental de nuestras vidas, acompañándonos tanto en vida como en muerte.
 
 ## Integrantes
 
