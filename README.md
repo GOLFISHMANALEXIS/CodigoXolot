@@ -56,14 +56,14 @@ Es un animatrónico inspirado en:
 
 ---
 # ALGUNAS IMAGENES DEL ANIMATRONICO
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="collage1.jpg" alt="Imagen Izquierda" style="width: 45%;">
-  </div>
-  <div>
-    <img src="collage2.jpg" alt="Imagen Derecha" style="width: 45%;">
-  </div>
-</div>
+
+<p align="center">
+  <img src="collage1.jpg" alt="Imagen Izquierda" width="25%">
+  <img src="collage2.jpg" alt="Imagen Derecha" width="25%">
+</p>
+
+
+
 
 ---
 
@@ -129,12 +129,13 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 - Calzón de manta (pantalón y camisa)
 
 
- <p align="center">
-  <img src="tipicotraje.jpg" width="250" />
-</p>
 <p align="center">
-  <i>Representacion</i>
+  <img src="tipicotraje.jpg" alt="Imagen Izquierda" width="25%">
+  <img src="calzon de manta.jpg" alt="Imagen Derecha" width="25%">
 </p>
+
+
+
 
 ---
 ## Piezas
