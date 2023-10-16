@@ -130,8 +130,7 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 
 
 <p align="center">
-  <img src="tipicotraje.jpg" alt="Imagen Izquierda" width="25%">
-  <img src="calzon de manta.jpg" alt="Imagen Derecha" width="25%">
+  <img src="tipicotraje.jpg" alt="Imagen Izquierda" width="25%"
 </p>
 
 
@@ -286,7 +285,6 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 - **Ali Michel Lopez Anselmo**
 - **Gisell del Carmen Luna Gasca**
 - **Fátima Jocelyn Márquez Buendía**
-- **Angel Gabriel Basilio Franco**
 
 ## Asesor
 
