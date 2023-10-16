@@ -66,6 +66,17 @@ Es un animatrónico inspirado en:
 </div>
 
 ---
+
+
+
+---
+
+
+
+
+[Descargar archivo Word](sketch para la presentacion.docx)
+
+---
 ## Historia
 
 ### Xoloitzcuintles
