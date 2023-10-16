@@ -53,6 +53,9 @@ Es un animatrónico inspirado en:
 - [Asesor del equipo](#asesor-del-equipo)
 - [Referencias](#referencias)
 
+
+---
+# ALGUNAS IMAGENES DEL ANIMATRONICO
 <div style="display: flex; justify-content: space-between;">
   <div>
     <img src="collage1.jpg" alt="Imagen Izquierda" style="width: 45%;">
