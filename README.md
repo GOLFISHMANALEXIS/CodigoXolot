@@ -72,9 +72,7 @@ Es un animatrónico inspirado en:
 ---
 
 
-
-
-[Descargar archivo Word](sketch para la presentacion.docx)
+[Descargar archivo Word]([sketch para la presentacion.docx)](https://github.com/GOLFISHMANALEXIS/CodigoXolot/blob/ef1c0b8e1a19cb6c234e24a0b458462cfff0b597/sketch%20para%20la%20presentacion.docx)
 
 ---
 ## Historia
