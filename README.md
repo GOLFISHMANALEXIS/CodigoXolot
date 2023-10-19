@@ -244,7 +244,10 @@ Descripción: El engrane a medida es una pieza esencial que garantiza un movimie
 
 [ARCHIVOS 3D de actuador lineal/CIERRE.STL](enlace al archivo 3D del cierre)
 
-![las.jpg](imagen del cierre)
+<p align="center">
+  <img src="las.jpg" alt="Imagen Izquierda" width="25%">
+
+</p>
 
 Descripción: El cierre permite que el actuador lineal realice movimientos hacia adelante y hacia atrás según lo programado en el circuito controlador de Arduino.
 
