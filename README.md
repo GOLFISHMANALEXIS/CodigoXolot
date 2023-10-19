@@ -158,12 +158,6 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 - Resistencia 1kΩ
 - Fuente de alimentación 5v-3.3v
 
-### Cámara de humo
-
-- Resistencia de hilo de nicrom
-- Ficha de doble empalme
-- Un ventilador de 5v
-- Una fuente de alimentación de 5v con un eliminador
 
 ### Actuador Lineal
 
