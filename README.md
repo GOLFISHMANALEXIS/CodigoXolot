@@ -3,7 +3,7 @@
 - **NIVEL EDUCATIVO: PREPARATORIA CRS**
 
 Es un animatrónico inspirado en:
-- Un Xoloitzcuintles
+- Un Xoloitzcuintle
 - En un alebrije
 - En los pueblos prehispánicos y el Mictlán
 
