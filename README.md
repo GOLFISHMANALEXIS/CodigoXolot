@@ -210,6 +210,12 @@ Este relato nos muestra cómo nuestros antepasados nos transmitieron, a través 
 <p align="center">
   <i>Esquemático</i>
 </p>
+ <p align="center">
+  <img src="PUERTAS PARA CAJA SERVO.png" width="400" />
+</p>
+<p align="center">
+  <i>Esquemático</i>
+</p>
 
 
 ### Control de la Dirección con el Joystick
