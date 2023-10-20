@@ -55,23 +55,23 @@ void loop() {
 
   // Verificar si el botón ha sido presionado
   if (digitalRead(buttonPin) == LOW) {
-    servo1.write(0);
-    servo2.write(0);
-    servo3.write(0);
-    servo4.write(0);
+    servo1.write(55);
+    servo2.write(55);
+    servo3.write(55);
+    servo4.write(55);
     delay(500);
   } else {
     if (distance1 <= 10 || distance2 <= 10) {
       if (servosInverted) {
         servo1.write(0);
-        servo2.write(180);
-        servo3.write(0);
-        servo4.write(180);
-      } else {
-        servo1.write(180);
         servo2.write(0);
-        servo3.write(180);
+        servo3.write(0);
         servo4.write(0);
+      } else {
+        servo1.write(110);
+        servo2.write(110);
+        servo3.write(110);
+        servo4.write(110);
       }
       servosInverted = !servosInverted;
 
