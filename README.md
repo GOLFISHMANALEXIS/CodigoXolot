@@ -7,6 +7,7 @@ Es un animatrónico inspirado en:
 - Un Xoloitzcuintle
 - En un alebrije
 - En los pueblos prehispánicos y el Mictlán
+- una inspiración mia es ganar por mi novia
 
 ## Índice
 
@@ -346,3 +347,4 @@ Estos archivos 3D son cruciales para el funcionamiento del actuador lineal y han
 <p align="center">
   <i>Prepa BUAP CRS</i>
 </p>
+
